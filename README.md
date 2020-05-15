@@ -33,4 +33,4 @@ Notice: For other software context, some modifications may be necessary, as the 
 
 -CH340  TTL to USB adapter on Master
 
-5. Youtube classroom: to be posted
+5. Youtube classroom: https://www.youtube.com/watch?v=b2w9nrRq9nw
